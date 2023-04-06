@@ -4,3 +4,5 @@ A social media analysis on the italian sentiments and emotions about Covid-19 th
 The scripts can take tweets with a list of specified hashtags or keyword and save them in .csv file.
 Also can produce piechart and wordtweet due to MatPlotLib.
 At the end, there is another script that can he do topic modeling on the text extracted from tweets.
+
+Developed by: Antonio Genovese, Davide Iovino, Giovanni Battista Sorrentino.
